@@ -22,7 +22,7 @@ export const tracks = [
     heading: "chandni",
     copy: [
       "chandni, i remember how excited you were while talking about this song.",
-      "I've never seen anyone hype up a song like this uk. and frankly speaking, seeing you like this made,"
+      "I've never seen anyone hype up a song like this uk. and frankly speaking, seeing you like this made,",
       "me happy as well and it also made me realize that how much you love this song, so much that you'd call yourself the real chandni.",
     ],
     image: {
