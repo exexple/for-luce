@@ -2,7 +2,7 @@
 export const albumMeta = {
   siteName: "for luce",
   title: "shivi's album",
-  eyebrow: "a little corner of my heart",
+  eyebrow: "an album specifically made just for you :D",
   subtitle: "a few things that were tailored specifically for you 🌺.",
   heroVideo: "/videos/cover-hero.mp4",
 };
