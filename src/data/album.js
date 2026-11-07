@@ -2,8 +2,8 @@
 export const albumMeta = {
   siteName: "for luce",
   title: "shivi's album",
-  eyebrow: "an album specifically made just for you :D",
-  subtitle: "a few things that were tailored specifically for you 🌺.",
+  eyebrow: "an album made just for you :D",
+  subtitle: "here are a few things that i specifically tailored  for you 🌺.",
   heroVideo: "/videos/cover-hero.mp4",
 };
 
@@ -20,7 +20,11 @@ export const tracks = [
     artist: "",
     kicker: "01 / warmth",
     heading: "chandni",
-    copy: [],
+    copy: [
+      "chandni, i remember how excited you were while talking about this song.",
+      "I've never seen anyone hype up a song like this uk. and frankly speaking, seeing you like this made,"
+      "me happy as well and it also made me realize that how much you love this song, so much that you'd call yourself the real chandni.",
+    ],
     image: {
       src: "/images/luce/photo-01.jpg",
       alt: "Album photograph 1",
@@ -39,7 +43,11 @@ export const tracks = [
     artist: "Mazzy Star",
     kicker: "02 / wonder",
     heading: "fade into you",
-    copy: [],
+    copy: [
+      "sooo, hie milady. ik this one wasn't on your list but uk i wanted t put this here.",
+      "i used to listen to this song a lot uk, it's cozy and calm and tbh it reminds me of you.",
+      "ik it's not your style but i hope you wouldn't mind it heye :D.",
+    ],
     image: {
       src: "/images/luce/photo-02.jpg",
       alt: "Album photograph 2",
@@ -58,7 +66,11 @@ export const tracks = [
     artist: "Ricky Montgomery",
     kicker: "03 / depth",
     heading: "line without a hook",
-    copy: [],
+    copy: [
+      "line without a hook, another one of your favourites right?",
+      "well ik we haven't know each other for too long but for some reason this song",
+      " kinda feels like you.",
+    ],
     image: {
       src: "/images/luce/photo-03.jpg",
       alt: "Album photograph 3",
@@ -77,7 +89,10 @@ export const tracks = [
     artist: "Strawberry Guy",
     kicker: "04 / comfort",
     heading: "mrs magic",
-    copy: [],
+    copy: [
+      "mrs magic, well tbh you actually are Something one would call magical.",
+      "the way you specified that you like the strings version specifically shows how much though you put into everything",
+    ],
     image: {
       src: "/images/luce/photo-04.jpg",
       alt: "Album photograph 4",
@@ -96,7 +111,12 @@ export const tracks = [
     artist: "Joshua Bassett",
     kicker: "05 / heaven is you",
     heading: null,
-    copy: [],
+    copy: [
+      "and last but not the least, a song that i specifically put into.",
+      "uk ig I've told you how talking to you somehow lifts my mood up right?",
+      "this song represents that feeling. i know you did not ask me to do any of this",
+      "or add these songs but somehow i felt like that's the right thing to do. hope you don't mind hehe :D.",
+    ],
     image: {
       src: "/images/luce/photo-05.jpg",
       alt: "Album photograph 5",
@@ -112,7 +132,12 @@ export const sideB = {
   theme: "sideB",
   heading: "side b",
   heroVideo: "/videos/side-b-hero.mp4",
-  copy: [],
+  copy: [
+    "well here's the end of the album.",
+    "well for now atleast, tho that doesn't mean I won't make anything like this again :D.",
+    "ik this was random and I'm sure that you weren't expecting something like this, tho i hope this doesn't possess you off 😞.",
+    "i hope that you'll smile after seeing this :D.",
+  ],
   dedication: "for luce.",
   closing: ["end of album.", "for now."],
   image: {
