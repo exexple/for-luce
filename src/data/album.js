@@ -91,7 +91,7 @@ export const tracks = [
     heading: "mrs magic",
     copy: [
       "mrs magic, well tbh you actually are Something one would call magical.",
-      "the way you specified that you like the strings version specifically shows how much though you put into everything",
+      "the way you specified that you like the strings version specifically shows how much thought you put into everything",
     ],
     image: {
       src: "/images/luce/photo-04.jpg",
@@ -135,7 +135,7 @@ export const sideB = {
   copy: [
     "well here's the end of the album.",
     "well for now atleast, tho that doesn't mean I won't make anything like this again :D.",
-    "ik this was random and I'm sure that you weren't expecting something like this, tho i hope this doesn't possess you off 😞.",
+    "ik this was random and I'm sure that you weren't expecting something like this, tho i hope this doesn't piss you off 😞.",
     "i hope that you'll smile after seeing this :D.",
   ],
   dedication: "for luce.",
